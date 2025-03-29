@@ -1,0 +1,10 @@
+.right {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+img {
+    margin-left: 10px; /* Space between icons */
+    cursor: pointer;
+}
